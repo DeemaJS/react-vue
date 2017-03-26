@@ -6,3 +6,4 @@
 - git commit -m "first commit"
 - git remote add origin [address]
 - git push -u origin master
++ tocuh package.json
